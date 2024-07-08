@@ -1,0 +1,35 @@
+name: Glitzorium
+version: '${project.version}'
+main: de.conghg.glitzorium.Glitzorium
+api-version: '1.20'
+
+
+commands:
+  about:
+    description: Über das Plugin
+    aliases:
+
+  trollList:
+    description: Liste von Troll Commands
+    aliases:
+
+  sword:
+    description: Adminschwert bekommen
+    aliases:
+
+  start:
+    description: Startet den Server
+    aliases:
+
+
+  tps:
+    description: Server TPS
+    aliases:
+
+  hilfe:
+    description: Liste aller Commands
+    aliases:
+
+  bastighg:
+    description: Setzt dein Nickname auf BastiGHG
+    aliases:
